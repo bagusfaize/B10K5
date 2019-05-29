@@ -16,5 +16,6 @@ Software yang dibutuhkan untuk menjalankan code
 - XAMPP untuk koneksi server database
 - IDE/Code Editor untuk edit code
 
-Preview 6B
-![preview](https://user-images.githubusercontent.com/50720858/58370360-7268d300-7eba-11e9-8293-3fc618d9be76.PNG)
+Preview Web App 6B
+![Capture](https://user-images.githubusercontent.com/50720858/58575346-098fab00-826c-11e9-8c69-577e6cd31c8c.PNG)
+
