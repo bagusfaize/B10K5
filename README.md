@@ -18,5 +18,6 @@ Software yang dibutuhkan untuk menjalankan code
 
 #### Preview Web App 6B
 
-![Capture](https://user-images.githubusercontent.com/50720858/58575346-098fab00-826c-11e9-8c69-577e6cd31c8c.PNG)
+![Capture](https://user-images.githubusercontent.com/50720858/58701738-f1d03800-83cd-11e9-97a9-c5609648ba00.PNG)
+
 
