@@ -24,7 +24,7 @@ input.form-control{
     box-shadow: none;
 }
 .box{
-    box-shadow: 0 1px .3rem rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px .5rem rgba(0, 0, 0, 0.05);
     border-radius: 1em;
     padding:20px 10px;
     background: white;
